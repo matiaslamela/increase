@@ -7,7 +7,7 @@ Como stack utilice node.js como lenguaje, para la base de datos postgresql y seq
 Para poder iniciar el proyecto, es necesario tener instalado postgresql.
 
 1) Crear la base de datos increase en postgresql.
-2) Crear un archivo .env en la carpeta raiz del proyecto que contenga los siguientes datos:
+2) Crear un archivo .env en la carpeta 'increase' del proyecto que contenga los siguientes datos:
 POSTGRESS_USER=usuarioDePostresql
 POSTGRESS_PASSWORD=contraseña
 PORT=puerto
